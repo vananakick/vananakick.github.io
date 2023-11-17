@@ -1,8 +1,9 @@
 ---
-title: Post with Header Image
+title: 👽👽👽👽👽👽👽👽👽👽👽
 tags: OSS
 article_header:
-  type: cover
+  type: overlay
+  theme: dark
   image:
     src: /[screenshot.jpg](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
 ---
