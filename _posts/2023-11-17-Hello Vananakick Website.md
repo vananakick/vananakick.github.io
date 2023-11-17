@@ -1,6 +1,6 @@
 ---
-title: OSS 
-tags: goo
+title: Hello Vananakick Website
+tags: OSS
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
